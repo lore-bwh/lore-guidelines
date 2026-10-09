@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Realm Lore Guidelines</title>
+    <style>
+      :root {
+        --bg: #111111;
+        --panel: #1b1b1b;
+        --panel-alt: #202020;
+        --text: #f1f1f1;
+        --muted: #c8c8c8;
+        --accent: #d9b36c;
+        --border: rgba(255,255,255,0.08);
+      }
+
+      * { box-sizing: border-box; }
+
+      body {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        background: linear-gradient(180deg, #0d0d0d 0%, #181818 100%);
+        color: var(--text);
+        line-height: 1.7;
+      }
+
+      .container {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 48px 24px 80px;
+      }
+
+      .header {
+        border-bottom: 1px solid var(--border);
+        padding-bottom: 24px;
+        margin-bottom: 28px;
+      }
+
+      h1 {
+        font-size: clamp(2.4rem, 5vw, 4rem);
+        line-height: 1.1;
+        margin: 0 0 12px;
+        letter-spacing: 0.02em;
+      }
+
+      .subtitle {
+        color: var(--muted);
+        font-size: 1.05rem;
+        max-width: 720px;
+      }
+
+      .section {
+        background: rgba(255,255,255,0.01);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 28px 24px 20px;
+        margin: 24px 0;
+      }
+
+      h2 {
+        font-size: clamp(1.6rem, 2vw, 2.2rem);
+        margin: 0 0 18px;
+        border-bottom: 1px solid var(--border);
+        padding-bottom: 10px;
+        color: var(--accent);
+      }
+
+      h3 {
+        font-size: 1.18rem;
+        margin-top: 22px;
+        margin-bottom: 10px;
+      }
+
+      p, li {
+        color: var(--text);
+        font-size: 1.04rem;
+      }
+
+      ul {
+        padding-left: 1.4rem;
+      }
+
+      li + li {
+        margin-top: 8px;
+      }
+
+      .quote {
+        border-left: 3px solid var(--accent);
+        padding-left: 16px;
+        color: var(--muted);
+        margin: 18px 0;
+      }
+
+      .smallcaps {
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        font-size: 0.8rem;
+        color: var(--accent);
+        display: block;
+        margin-bottom: 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <span class="smallcaps">Realm of the Crown</span>
+        <h1>Realm Lore Guidelines</h1>
+        <div class="subtitle">
+          A canon-first framework for the Realm, preserving continuity, immersion, historical consequence, and fair political order.
+        </div>
+      </header>
+      <main id="app"></main>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
