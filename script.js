@@ -17,6 +17,9 @@ const sections = [
       <p>
         This document exists to help players navigate that reality. It explains what is canon, what is forbidden, how power functions, how conflict is judged, and how historical record is preserved. It is a guide to acting with awareness, restraint, and purpose.
       </p>
+      <p>
+        In practice, this means what happens in Discord and what happens in Roblox are both part of a single historical chain. A decree announced in Discord is not separate from the world—it is the world speaking. A battle fought in Roblox is not just a scene; it is a moment that may define House prestige, succession, or war. The Realm is continuous, not fragmented.
+      </p>
     `
   },
   {
@@ -50,6 +53,9 @@ const sections = [
       <p>
         Treat your actions as part of a <strong>shared history</strong>, not as isolated events with no lasting consequence. The Realm remembers. It records victories, losses, betrayals, and acts of honor alike. Those records form the foundation of future events, and those future events will judge the choices made in the present.
       </p>
+      <div class="quote">
+        <strong>Example:</strong> A House cannot claim a land seizure in Roblox and then deny its consequences in Discord. If it was not recognized through lawful IC process, it cannot be treated as canon simply because it was convenient.
+      </div>
     `
   },
   {
@@ -81,6 +87,9 @@ const sections = [
         <li>Randomly killing or attacking others during events without justification.</li>
         <li>Repeatedly acting in a manner inconsistent with the character or setting.</li>
       </ul>
+      <div class="quote">
+        <strong>Example:</strong> A character may not suddenly know a private secret they were never told IC, then act as if that information was common knowledge. If it was not said in Discord, given by raven, or witnessed in Roblox, it remains unknown to that character.
+      </div>
     `
   },
   {
@@ -126,6 +135,9 @@ const sections = [
       <p>
         This applies to wars, alliances, political decisions, territorial disputes, and all other actions that create House-wide consequences. In the Realm, political power is not personal; it is collective, historical, and often burdensome.
       </p>
+      <div class="quote">
+        <strong>Example:</strong> A House cannot declare war in Roblox because a Discord thread says it is “their turn.” Without a legitimate political claim, proper notice, or recognized escalation, the declaration does not become canon and may be denied.
+      </div>
     `
   },
   {
@@ -167,6 +179,9 @@ const sections = [
         Properly conducted and recognized events may become part of official history. Only properly executed IC events recognized by the Lore Department may enter the official historical record.
       </p>
       <div class="quote">
+        <strong>Example:</strong> A wedding announced on Discord, witnessed in Roblox, and acknowledged by both Houses becomes part of the Realm's political record. A random off-map feud that never enters valid IC channels remains a story, not canon.
+      </div>
+      <div class="quote">
         <strong>Actions taken outside established systems may be acknowledged narratively, but they cannot alter official canon unless recognized by the Lore Department or the appropriate authority.</strong>
       </div>
     `
@@ -206,6 +221,9 @@ const sections = [
       <p>
         Invalid deaths or removals carried out outside established channels do not automatically alter official canon or history. The Realm is not shaped by private convenience; it is shaped by recorded consequence.
       </p>
+      <div class="quote">
+        <strong>Example:</strong> A knight injured in a Roblox battle may still be unable to ride or command troops until recovery is accepted. A character cannot simply vanish from a wound and reappear fully healed in the next scene without consequence.
+      </div>
     `
   },
   {
@@ -253,6 +271,9 @@ const sections = [
       <p>
         If an execution cannot be physically performed in-game, it may still be recognized as having occurred IRP, resulting in <strong>Perma-Death</strong>.
       </p>
+      <div class="quote">
+        <strong>Example:</strong> A captive Lord may be ransomed for land, hostages, or a treaty. A failed escape attempt does not erase the imprisonment; it often worsens the terms of captivity.
+      </div>
     `
   },
   {
@@ -317,6 +338,9 @@ const sections = [
         <li>Leadership may not be transferred to bypass punishment, inactivity, or other consequences.</li>
       </ul>
       <div class="quote">
+        <strong>Example:</strong> A Lesser House with 40 active members may have more than one Knight, but the cap is still controlled by the 5-member slot rule. If a House tries to bypass it with unofficial honoraries, that is invalid.
+      </div>
+      <div class="quote">
         <strong>Houses are responsible for the actions of their Highborn.</strong>
       </div>
     `
@@ -356,6 +380,9 @@ const sections = [
         Once a House lawfully secures the Throne, a formal Proclamation confirms the ascension. Royal titles become exclusive to the new Crown House, the two-week grace period begins upon recognition, the King's/Queen's Guard returns to active service, and the Realm exits Interregnum.
       </p>
       <p>The new Crown assumes the responsibilities and authority of the monarchy.</p>
+      <div class="quote">
+        <strong>Example:</strong> If the Crown collapses in Discord and a House claims the Throne without lawful war or recognition, that claim is just ambition. The Realm does not accept titles by sentiment alone.
+      </div>
     `
   },
   {
@@ -381,6 +408,9 @@ const sections = [
       <p>An alliance may not transfer inheritance or dynastic claims, override Interactive Map war requirements, merge political authority, combine House limits, or grant automatic control over another House.</p>
       <div class="quote">
         <strong>An alliance may unite Houses in purpose, but it does not make them one House.</strong>
+      </div>
+      <div class="quote">
+        <strong>Example:</strong> A political marriage may strengthen a House alliance, but it does not merge the two Houses into one banner, command structure, or dynasty.
       </div>
     `
   },
@@ -410,6 +440,9 @@ const sections = [
       <p>Public declarations may affect titles, dynastic standing, inheritance, political legitimacy, and claims to the Crown. Private declarations carry political weight only when properly delivered and acknowledged through legitimate IC means.</p>
       <div class="quote">
         <strong>If a declaration is properly recorded and acknowledged, it becomes part of canon.</strong>
+      </div>
+      <div class="quote">
+        <strong>Example:</strong> A public decree posted in the Realm's official channels is binding. A private message between players does not override canon unless it is properly delivered and recognized IC.
       </div>
     `
   },
@@ -446,6 +479,9 @@ const sections = [
       <div class="quote">
         <strong>Actions have consequences, and history cannot be rewritten merely because it did not unfold as someone wished.</strong>
       </div>
+      <div class="quote">
+        <strong>Example:</strong> A House cannot demand a retcon to erase a lost war simply because it was inconvenient. The Realm remembers the victory, the loss, and the consequences that followed.
+      </div>
     `
   },
   {
@@ -463,6 +499,9 @@ const sections = [
       <p>
         In other words, the Lore Department is the institutional memory of the Realm: not to stop stories from being told, but to ensure those stories are told in a world that remains stable, consistent, and historically honest.
       </p>
+      <div class="quote">
+        <strong>Example:</strong> When a war is questioned, a House claims succession, or a death is disputed, the Lore Department decides what is canon, what was invalid, and what remains in the historical record.
+      </div>
     `
   },
   {
@@ -477,6 +516,9 @@ const sections = [
       <p>
         Therefore, every act of power should be considered not only in terms of immediate gain, but of long-term fallout. The Realm rewards those who understand this principle. It punishes those who believe influence is a right rather than a burden.
       </p>
+      <div class="quote">
+        <strong>Example:</strong> A House may win a short war in Roblox, but if it ignores law, legitimacy, or consequence, its power may collapse under the strain of scandal, revenge, and loss of loyalty.
+      </div>
     `
   },
   {
@@ -499,6 +541,9 @@ const sections = [
       <p>
         In the end, the Realm is defined not by the strength of an individual, but by what that individual leaves behind. The question is not whether a character can dominate. The question is whether they deserve to be remembered.
       </p>
+      <div class="quote">
+        <strong>Discord and Roblox are not separate worlds. They are two parts of one Realm: one voice for the story, one stage for the consequences.</strong>
+      </div>
     `
   }
 ];
