@@ -26,7 +26,7 @@ const sections = [
         The Realm is shaped by <strong>established canon, recorded history, and the consequences of every action taken within it</strong>. Every character, House, and event contributes to a shared history. The setting does not operate on a vacuum of possibility; it operates on precedent, continuity, and consequence.
       </p>
       <p>
-        Players are expected to understand and respect the foundations of the Realm before taking actions that may alter its course. A character’s ambitions are only meaningful if they exist within the rules, political realities, and social conditions of the setting. To act carelessly is not merely to play loosely—it is to disrespect the collective history of the world.
+        Players are expected to understand and respect the foundations of the Realm before taking actions that may alter its course. A character's ambitions are only meaningful if they exist within the rules, political realities, and social conditions of the setting. To act carelessly is not merely to play loosely—it is to disrespect the collective history of the world.
       </p>
       <h3>What Qualifies as Canon?</h3>
       <p>Canon consists of established lore, recorded history, recognized traditions, and the rules governing the Realm.</p>
@@ -69,7 +69,7 @@ const sections = [
       </ul>
       <h3>Conduct in Roleplay</h3>
       <p>
-        During official RP, players are expected to remain <strong>in character (IC)</strong> and act according to their character’s knowledge, personality, position, and circumstances. The setting requires authors to inhabit their personae and respond as those people would respond, not as players would decide outside the fiction.
+        During official RP, players are expected to remain <strong>in character (IC)</strong> and act according to their character's knowledge, personality, position, and circumstances. The setting requires authors to inhabit their personae and respond as those people would respond, not as players would decide outside the fiction.
       </p>
       <p>
         OOC communication should be placed in <strong>(parentheses)</strong> when necessary. Repeatedly breaking character or allowing OOC matters to interfere with roleplay may result in consequences for the character or the player. The Realm is most alive when players remain inside it.
@@ -114,7 +114,7 @@ const sections = [
       <p>War cannot be declared simply because a player wants a fight.</p>
       <p>Before taking major action, consider:</p>
       <ul>
-        <li>Your House’s position.</li>
+        <li>Your House's position.</li>
         <li>Existing alliances.</li>
         <li>Political relationships.</li>
         <li>Military support.</li>
@@ -132,7 +132,7 @@ const sections = [
     title: "IV. Events & Story Progression",
     content: `
       <p>
-        Lore events are the engines of the Realm’s history. They are the moments when Houses, factions, and characters shape the world around them, gain influence, lose standing, face consequences, and leave lasting marks upon history.
+        Lore events are the engines of the Realm's history. They are the moments when Houses, factions, and characters shape the world around them, gain influence, lose standing, face consequences, and leave lasting marks upon history.
       </p>
       <h3>How Lore Events Work</h3>
       <p>A lore event is any IC scenario that meaningfully affects the status, influence, power, or story of a House, region, faction, or the Realm itself.</p>
@@ -183,7 +183,7 @@ const sections = [
         <strong>Severe injuries may affect combat ability, inheritance, office, command, or political position.</strong>
       </div>
       <p>
-        A broken leg should not be healed by mere narrative convenience. A character who suffers serious harm must live with that harm until the setting’s logic allows recovery. The world is not indifferent to pain.
+        A broken leg should not be healed by mere narrative convenience. A character who suffers serious harm must live with that harm until the setting's logic allows recovery. The world is not indifferent to pain.
       </p>
       <h3>Permanent Consequences</h3>
       <p>
@@ -229,11 +229,11 @@ const sections = [
         <li>Metagaming or outside communication may be handled accordingly.</li>
       </ul>
       <p>
-        A prisoner is generally held within the captor’s capital or principal seat. The captor House may determine the prisoner’s fate according to the circumstances. The law of the Realm does not always promise fairness, only process, legitimacy, and consequences.
+        A prisoner is generally held within the captor's capital or principal seat. The captor House may determine the prisoner's fate according to the circumstances. The law of the Realm does not always promise fairness, only process, legitimacy, and consequences.
       </p>
       <h3>Ransom</h3>
       <p>
-        The capture of a notable character may allow reasonable demands such as financial compensation, land or territorial concessions, release or exchange of prisoners, or other political concessions. Ransom arrangements require Lore Department approval and acceptance by the prisoner’s House.
+        The capture of a notable character may allow reasonable demands such as financial compensation, land or territorial concessions, release or exchange of prisoners, or other political concessions. Ransom arrangements require Lore Department approval and acceptance by the prisoner's House.
       </p>
       <h3>Trials</h3>
       <p>Knights and characters of higher status may request Trial by Combat or Trial of the Seven. Specific requirements and procedures are governed by the applicable trial rules.</p>
@@ -243,12 +243,12 @@ const sections = [
       </p>
       <p>An escape is never automatically guaranteed.</p>
       <h3>Exile</h3>
-      <p><strong>House Exile:</strong> A character may be formally exiled by their own House and may no longer enter or operate within that House’s territory IRP.</p>
+      <p><strong>House Exile:</strong> A character may be formally exiled by their own House and may no longer enter or operate within that House's territory IRP.</p>
       <p><strong>Exile in Place of Death:</strong> A House may choose exile instead of execution where circumstances permit.</p>
       <p>Formal IC roleplay is required for either form of exile.</p>
       <h3>Execution</h3>
       <p>
-        A character found guilty of a serious offense who has no right to a special trial may be executed. Execution authority may be exercised by the City Watch, the Crown Guard, or the defendant’s House Guard.
+        A character found guilty of a serious offense who has no right to a special trial may be executed. Execution authority may be exercised by the City Watch, the Crown Guard, or the defendant's House Guard.
       </p>
       <p>
         If an execution cannot be physically performed in-game, it may still be recognized as having occurred IRP, resulting in <strong>Perma-Death</strong>.
@@ -259,36 +259,29 @@ const sections = [
     title: "VII. Houses, Families & Bloodlines",
     content: `
       <p>
-        Houses form the foundation of the Realm’s political and social structure. Their influence is determined by ambition, political standing, and the limitations established by the Realm. A House is not merely a family name; it is a political body, a historical web of obligations, and a claim to legitimacy.
+        Houses form the foundation of the Realm's political and social structure. Their influence is determined by ambition, political standing, and the limitations established by the Realm. A House is not merely a family name; it is a political body, a historical web of obligations, and a claim to legitimacy.
       </p>
       <h3>Family Limits</h3>
-      <p>All Houses begin as <strong>Minor Houses</strong> unless they progress through Interactive Map systems or receive recognized political advancement.</p>
-      <h3>Minor House</h3>
+      <p>All Houses begin as <strong>Lesser Houses</strong> unless they progress through Interactive Map systems or receive recognized political advancement.</p>
+      <h3>Lesser House</h3>
       <ul>
-        <li>7 Knights</li>
-        <li>7 Squires</li>
-        <li>9 Household Guard, including Lord Commander, Captain, and Lieutenant</li>
+        <li>Every Male Highborn will be a Knight</li>
+        <li>Every 5 active members = 1 Knight Slot</li>
+        <li>10 Household Guard, including Lord Commander/Captain/Lieutenant</li>
         <li>Dynasty Cap: 5, including Heir and Lord/Lady Consort unless already highborn elsewhere</li>
       </ul>
       <h3>Paramount House</h3>
       <ul>
-        <li>8 Knights</li>
-        <li>8 Squires</li>
-        <li>11 Household Guard, including command</li>
-        <li>Dynasty Cap: 6</li>
+        <li>Every Male Highborn will be a Knight</li>
+        <li>Every 5 active members = 1 Knight Slot</li>
+        <li>10 Household Guard, including Lord Commander/Captain/Lieutenant</li>
+        <li>Dynasty Cap: 8, including Heir and Lord/Lady Consort unless already highborn elsewhere</li>
       </ul>
       <h3>Crown House</h3>
       <ul>
         <li>No additional Knights, Squires, or Household Guard through Crown status.</li>
-        <li>Access to the King’s/Queen’s Guard.</li>
+        <li>Access to the King's/Queen's Guard.</li>
         <li>Dynasty Cap remains unchanged.</li>
-      </ul>
-      <h3>Wandering Court</h3>
-      <ul>
-        <li>2 Knights</li>
-        <li>2 Squires</li>
-        <li>No Household Guard</li>
-        <li>Dynasty Cap: 2, including Heir/Consort unless already highborn elsewhere</li>
       </ul>
       <h3>House Limitations</h3>
       <p>House caps cannot be exceeded. The following are prohibited:</p>
@@ -301,14 +294,14 @@ const sections = [
       <p>Every Squire must be sworn to a recognized Knight.</p>
       <ul>
         <li>A Knight may have only one Squire.</li>
-        <li>Squires may not style themselves as “Ser.”</li>
+        <li>Squires may not style themselves as "Ser."</li>
         <li>Squires may not command troops without proper authority.</li>
         <li>A Squire cannot inherit Knightly rank without an appropriate decree or progression.</li>
         <li>Squires cannot have Squires of their own.</li>
       </ul>
-      <h3>Dynasty in the King’s/Queen’s Guard</h3>
+      <h3>Dynasty in the King's/Queen's Guard</h3>
       <p>
-        Members of the Dynasty who enter the King’s or Queen’s Guard become <strong>Honorary Dynasty</strong>. They no longer count toward the Highborn/Dynasty cap, may not inherit, may not marry while bound to the Guard, and may not act politically on behalf of their House.
+        Members of the Dynasty who enter the King's or Queen's Guard become <strong>Honorary Dynasty</strong>. They no longer count toward the Highborn/Dynasty cap, may not inherit, may not marry while bound to the Guard, and may not act politically on behalf of their House.
       </p>
       <h3>Highborn & Lowborn</h3>
       <p><strong>Highborn:</strong> Count toward Dynasty Caps; may inherit lordship, titles, and lands through lawful succession; may participate in political marriages and councils; may wage war for the Throne where permitted.</p>
@@ -357,10 +350,10 @@ const sections = [
         <li>Ravens and decrees remain binding.</li>
         <li>Ravens or decrees may not be forged or unlawfully intercepted.</li>
       </ul>
-      <p>The City Watch remains operational, and the King’s/Queen’s Guard remains in stasis until a new Crown House is recognized.</p>
+      <p>The City Watch remains operational, and the King's/Queen's Guard remains in stasis until a new Crown House is recognized.</p>
       <h3>New Crown</h3>
       <p>
-        Once a House lawfully secures the Throne, a formal Proclamation confirms the ascension. Royal titles become exclusive to the new Crown House, the two-week grace period begins upon recognition, the King’s/Queen’s Guard returns to active service, and the Realm exits Interregnum.
+        Once a House lawfully secures the Throne, a formal Proclamation confirms the ascension. Royal titles become exclusive to the new Crown House, the two-week grace period begins upon recognition, the King's/Queen's Guard returns to active service, and the Realm exits Interregnum.
       </p>
       <p>The new Crown assumes the responsibilities and authority of the monarchy.</p>
     `
@@ -462,7 +455,7 @@ const sections = [
         The Lore Department exists to preserve the integrity of the Realm and to ensure that continuity, justice, and historical record remain intact. It is the body responsible for evaluating the legitimacy of events, clarifying disputes, preserving canon, and making sure the world remains coherent and fair.
       </p>
       <p>
-        The Lore Department is not a barrier to creativity. It is a guardian of the setting’s memory. It is there to ensure that new stories do not erase the old ones, and that major actions are judged by the standards the world itself recognizes.
+        The Lore Department is not a barrier to creativity. It is a guardian of the setting's memory. It is there to ensure that new stories do not erase the old ones, and that major actions are judged by the standards the world itself recognizes.
       </p>
       <p>
         This includes determining whether a House claim is valid, whether a dispute has sufficient historical basis, whether a conflict crossed acceptable bounds, and whether a moment in time should enter the official canon. When a decision matters, the Lore Department is the standard by which it is weighed.
@@ -501,7 +494,7 @@ const sections = [
         <li>Consequences matter.</li>
       </ul>
       <p>
-        A House is not a reflection of a single player’s ambitions, but of an ongoing narrative inheritance. A character is not a static idea, but a living part of the Realm’s memory. To play in this setting is to engage in a durable historical process, one where actions carry weight and history cannot be simply erased because a result was inconvenient.
+        A House is not a reflection of a single player's ambitions, but of an ongoing narrative inheritance. A character is not a static idea, but a living part of the Realm's memory. To play in this setting is to engage in a durable historical process, one where actions carry weight and history cannot be simply erased because a result was inconvenient.
       </p>
       <p>
         In the end, the Realm is defined not by the strength of an individual, but by what that individual leaves behind. The question is not whether a character can dominate. The question is whether they deserve to be remembered.
