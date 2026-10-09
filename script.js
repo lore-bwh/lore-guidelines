@@ -429,7 +429,7 @@ const sections = [
       <h3>When History May Be Corrected</h3>
       <p>A historical record may be corrected in cases such as a mechanical error, a ruling based on invalid or incomplete information, a House being wrongly penalized due to an administrative error, or an event violating Realm law as it existed at the time.</p>
       <ul>
-        <li>Storytelling or administrative approval.</li>
+        <li>Lore Department or administrative approval.</li>
         <li>Public documentation.</li>
         <li>A clear explanation of what was altered and why.</li>
         <li>Preservation of the original record where reasonably possible.</li>
